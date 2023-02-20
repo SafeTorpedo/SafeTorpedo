@@ -88,6 +88,6 @@
 <p><a href="https://www.buymeacoffee.com/prathamgupta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prathamgupta" /></a></p></br></br></br>
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=0gc99husqgi61gljihxh6e5wj&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
+
 
 <br/>  
